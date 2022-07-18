@@ -1,3 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-hello
+![git profile](https://github.com/malani-prince)
